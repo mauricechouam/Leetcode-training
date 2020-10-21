@@ -4,5 +4,4 @@ var reverseString = function (s) {
         s[i] = s[s.length - 1 - i]
         s[s.length - 1 - i] = temp;
     }
-
 };
