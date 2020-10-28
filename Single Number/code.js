@@ -1,5 +1,9 @@
-var singleNumber = function (nums) {
-    let count = 0; 
-    var result; 
-    let tab = nums;
-}
+var singleNumber = function(nums) {
+    
+    var temp =nums[0];
+    for (let i=1; i<nums.length;i++){
+        temp ^=nums[i];
+    }
+     return temp;
+    
+ };
