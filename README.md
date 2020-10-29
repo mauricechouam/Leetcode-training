@@ -34,7 +34,7 @@ n == nums.length
 0 <= nums[i] <= n
 All the numbers of nums are unique.
 
-## 5) Single Number
+## 5)![Single Number](https://github.com/mauricechouam/Leetcode-training/blob/main/Single%20Number/code.js)
 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 Follow up: Could you implement a solution with a linear runtime complexity and without using extra memory?
 Example 1:
@@ -44,7 +44,7 @@ Constraints:
 1 <= nums.length <= 3 * 104
 -3 * 104 <= nums[i] <= 3 * 104
 Each element in the array appears twice except for one element which appears only once.
-## 6) Valid Anagram
+## 6)![Valid Anagram](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Anagram/code.js)
 Given two strings s and t , write a function to determine if t is an anagram of s.
 Example 1:
 Input: s = "anagram", t = "nagaram"
@@ -57,7 +57,7 @@ You may assume the string contains only lowercase alphabets.
 Follow up:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
 
-## 7) Set Mismatch
+## 7) ![Set Mismatch]()
 The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in the set got duplicated to another number in the set, which results in repetition of one number and loss of another number.
 Given an array nums representing the data status of this set after the error. Your task is to firstly find the number occurs twice and then find the number that is missing. Return them in the form of an array.
 Example 1:
