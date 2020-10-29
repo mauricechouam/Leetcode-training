@@ -8,20 +8,20 @@ Example 1:
 Input: ["h","e","l","l","o"]
 Output: ["o","l","l","e","h"]
 
-## 2)   Reverse Integer
+## 2) [Reverse String ](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20String/code.js)
 Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows. Constraints: -231 <= x <= 231 - 1
 Example 1:
 Input: x = 123
 Output: 321
 
-## 3) Non-decreasing Array
+## 3)![Reverse String ](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20String/code.js)
 Given an array nums with n integers, your task is to check if it could become non-decreasing by modifying at most 1 element.
 We define an array is non-decreasing if nums[i] <= nums[i + 1] holds for every i (0-based) such that (0 <= i <= n - 2).
 Input: nums = [4,2,3]
 Output: true
 Explanation: You could modify the first 4 to 1 to get a non-decreasing array.
 
-## 4) Missing Number
+## 4)![Reverse String ](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20String/code.js)
 Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 Follow up: Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
 Example 1:
@@ -34,7 +34,7 @@ n == nums.length
 0 <= nums[i] <= n
 All the numbers of nums are unique.
 
-## 5) Single Number
+## 5)![Reverse String ](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20String/code.js)
 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 Follow up: Could you implement a solution with a linear runtime complexity and without using extra memory?
 Example 1:
@@ -44,7 +44,7 @@ Constraints:
 1 <= nums.length <= 3 * 104
 -3 * 104 <= nums[i] <= 3 * 104
 Each element in the array appears twice except for one element which appears only once.
-## 6) Valid Anagram
+## 6)![Reverse String ](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20String/code.js)
 Given two strings s and t , write a function to determine if t is an anagram of s.
 Example 1:
 Input: s = "anagram", t = "nagaram"
