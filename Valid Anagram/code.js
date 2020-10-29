@@ -1,7 +1,7 @@
 /*
-  @param {string} s
- * @param {string} t
- * @return {boolean}
+  @param {string} a
+  @param {string} b
+  @return {boolean}
  */
 var isAnagram = function(a, b) {
     
