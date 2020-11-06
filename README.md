@@ -96,7 +96,7 @@ Input: nums = [4,5,6,7,0,1,2], target = 3
 Output: -1
 
 
-## 11) [Running Sum of 1d Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Search%20in%20Rotated%20Sorted%20Array/code.js)
+## 11) [Running Sum of 1d Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Running%20Sum%20of%201d%20Array/code.js)
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 Return the running sum of nums.
 Example 1:
