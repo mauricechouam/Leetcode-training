@@ -67,3 +67,10 @@ Note:
 The given array size will in the range [2, 10000].
 The given array's numbers won't have any order.
 
+## 8) ![Set Mismatch](https://github.com/mauricechouam/Leetcode-training/blob/main/Set%20Mismatch/code.js)
+Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+Example 1:
+Input: "Let's take LeetCode contest"
+Output: "s'teL ekat edoCteeL tsetnoc"
+Note: In the string, each word is separated by single space and there will not be any extra space in the string.
+
