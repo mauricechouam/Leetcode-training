@@ -9,6 +9,14 @@ var kidsWithCandies = function(candies, extraCandies) {
     for(i=1;i<candies.length;i++){
         if(candies[i]>max){max =candies[i]}; 
     }
-    
+    for(i=0;i<candies.length;i++){
+        if((candies[i]+extraCandies)>= max){
+            s[i]= true; 
+        }else 
+        {
+            s[i]=false;
+        } 
+    }
+    return s
     
 };
