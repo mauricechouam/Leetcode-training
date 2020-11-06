@@ -83,3 +83,15 @@ Input: nums = [2,3,1,1,4]
 Output: true
 Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.
 
+
+## 10) [Jump Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Jump%20Game/code.js)
+You are given an integer array nums sorted in ascending order, and an integer target.
+Suppose that nums is rotated at some pivot unknown to you beforehand (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
+If target is found in the array return its index, otherwise, return -1.
+Example 1:
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+Example 2:
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+
