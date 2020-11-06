@@ -74,7 +74,7 @@ Input: "Let's take LeetCode contest"
 Output: "s'teL ekat edoCteeL tsetnoc"
 Note: In the string, each word is separated by single space and there will not be any extra space in the string.
 
-## 9) [Jump Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Set%20Mismatch/code.js)
+## 9) [Jump Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Jump%20Game/code.js)
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
 Each element in the array represents your maximum jump length at that position.
 Determine if you are able to reach the last index.
