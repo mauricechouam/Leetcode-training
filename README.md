@@ -120,7 +120,7 @@ Kid 3 has 5 candies and this is already the greatest number of candies among the
 Kid 4 has 1 candy and even if he or she receives all extra candies will only have 4 candies. 
 Kid 5 has 3 candies and if he or she receives at least 2 extra candies will have the greatest number of candies among the kids. 
 
-## 13) [Intersection of Two Arrays II](https://github.com/mauricechouam/Leetcode-training/blob/main/Shuffle%20the%20Array/code.js)
+## 13) [Intersection of Two Arrays II](https://github.com/mauricechouam/Leetcode-training/blob/main/Intersection%20of%20Two%20Arrays%20II/code.js)
 Given two arrays, write a function to compute their intersection.
 Example 1:
 Input: nums1 = [1,2,2,1], nums2 = [2,2]
