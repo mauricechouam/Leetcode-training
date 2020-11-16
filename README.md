@@ -193,7 +193,7 @@ Input: code = [5,7,1,4], k = 3
 Output: [12,10,16,13]
 Explanation: Each number is replaced by the sum of the next 3 numbers. The decrypted code is [7+1+4, 1+4+5, 4+5+7, 5+7+1]. Notice that the numbers wrap around.
 
-## 19) [Defuse the Bomb](https://github.com/mauricechouam/Leetcode-training/blob/main/Defuse%20the%20Bomb/code.js)
+## 19) [Target Sum](https://github.com/mauricechouam/Leetcode-training/blob/main/Target%20Sum/code.js)
 You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols + and -. For each integer, you should choose one from + and - as its new symbol.
 Find out how many ways to assign symbols to make sum of integers equal to target S.
 Example 1:
