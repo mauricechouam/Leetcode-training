@@ -132,7 +132,7 @@ Note:
 Each element in the result should appear as many times as it shows in both arrays.
 The result can be in any order.
 
-## 14) [Height Checker](https://github.com/mauricechouam/Leetcode-training/blob/main/Intersection%20of%20Two%20Arrays%20II/code.js)
+## 14) [Height Checker](https://github.com/mauricechouam/Leetcode-training/blob/main/Height%20Checker/code.js)
 Return the minimum number of students that must move in order for all students to be standing in non-decreasing order of height.
 Notice that when a group of students is selected they can reorder in any possible way between themselves and the non selected students remain on their seats.
 Example 1:
