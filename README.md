@@ -148,7 +148,7 @@ Example 2:
 Input: heights = [5,1,2,3,4]
 Output: 5
 
-## 15) [Rotate Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Height%20Checker/code.js)
+## 15) [Rotate Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Rotate%20Array/code.js)
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 Follow up:
 Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
