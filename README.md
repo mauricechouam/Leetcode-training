@@ -180,7 +180,7 @@ Output: True
 Explanation: 
 The only way to decode it is two-bit character and one-bit character. So the last character is one-bit character.
 
-## 18) [Defuse the Bomb](https://github.com/mauricechouam/Leetcode-training/blob/main/1-bit%20and%202-bit%20Characters/code.js)
+## 18) [Defuse the Bomb](https://github.com/mauricechouam/Leetcode-training/blob/main/Defuse%20the%20Bomb/code.js)
 You have a bomb to defuse, and your time is running out! Your informer will provide you with a circular array code of length of n and a key k.
 To decrypt the code, you must replace every number. All the numbers are replaced simultaneously.
 If k > 0, replace the ith number with the sum of the next k numbers.
@@ -193,4 +193,17 @@ Input: code = [5,7,1,4], k = 3
 Output: [12,10,16,13]
 Explanation: Each number is replaced by the sum of the next 3 numbers. The decrypted code is [7+1+4, 1+4+5, 4+5+7, 5+7+1]. Notice that the numbers wrap around.
 
+## 19) [Defuse the Bomb](https://github.com/mauricechouam/Leetcode-training/blob/main/Defuse%20the%20Bomb/code.js)
+You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols + and -. For each integer, you should choose one from + and - as its new symbol.
+Find out how many ways to assign symbols to make sum of integers equal to target S.
+Example 1:
+Input: nums is [1, 1, 1, 1, 1], S is 3. 
+Output: 5
+Explanation: 
+-1+1+1+1+1 = 3
++1-1+1+1+1 = 3
++1+1-1+1+1 = 3
++1+1+1-1+1 = 3
++1+1+1+1-1 = 3
+There are 5 ways to assign symbols to make the sum of nums be target 3.
 
