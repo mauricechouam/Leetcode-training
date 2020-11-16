@@ -170,4 +170,15 @@ Example 2:
 Input: x = 2.10000, n = 3
 Output: 9.26100
 
+## 17) [1-bit and 2-bit Characters](https://github.com/mauricechouam/Leetcode-training/blob/main/Pow(x%2C%20n)/code.js)
+We have two special characters. The first character can be represented by one bit 0. The second character can be represented by two bits (10 or 11).
+Now given a string represented by several bits. Return whether the last character must be a one-bit character or not. The given string will always end with a zero.
+Example 1:
+Input: 
+bits = [1, 0, 0]
+Output: True
+Explanation: 
+The only way to decode it is two-bit character and one-bit character. So the last character is one-bit character.
+
+
 
