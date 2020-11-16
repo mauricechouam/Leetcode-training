@@ -20,4 +20,10 @@ var intersect = function(nums1, nums2) {
     
   return result;
 }
-
+var countNums = function(nums) {
+    const obj = {};
+    for (let num of nums) {
+      obj[num] = ++obj[num] || 1;
+    }
+    return obj;
+  };
