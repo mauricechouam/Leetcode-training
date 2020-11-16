@@ -161,7 +161,7 @@ rotate 1 steps to the right: [7,1,2,3,4,5,6]
 rotate 2 steps to the right: [6,7,1,2,3,4,5]
 rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
-## 16) [Pow(x, n)](https://github.com/mauricechouam/Leetcode-training/blob/main/Rotate%20Array/code.js)
+## 16) [Pow(x, n)](https://github.com/mauricechouam/Leetcode-training/blob/main/Pow(x%2C%20n)/code.js)
 Implement pow(x, n), which calculates x raised to the power n (i.e. xn).
 Example 1:
 Input: x = 2.00000, n = 10
