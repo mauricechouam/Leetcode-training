@@ -207,7 +207,7 @@ Explanation:
 +1+1+1+1-1 = 3
 There are 5 ways to assign symbols to make the sum of nums be target 3.
 
-## 20) [Relative Sort Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Target%20Sum/code.js)
+## 20) [Relative Sort Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Relative%20Sort%20Array/code.js)
 Given two arrays arr1 and arr2, the elements of arr2 are distinct, and all elements in arr2 are also in arr1.
 Sort the elements of arr1 such that the relative ordering of items in arr1 are the same as in arr2.  Elements that don't appear in arr2 should be placed at the end of arr1 in ascending order.
 Example 1:
