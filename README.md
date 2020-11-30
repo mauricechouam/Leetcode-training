@@ -229,7 +229,7 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 
-## 22) [Maximum Binary Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Two%20Sum/code.js)
+## 22) [Maximum Binary Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Maximum%20Binary%20Tree/code.js)
 Given an integer array with no duplicates. A maximum tree building on this array is defined as follow:
 The root is the maximum number in the array.
 The left subtree is the maximum tree constructed from left part subarray divided by the maximum number.
