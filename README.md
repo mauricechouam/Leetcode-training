@@ -253,7 +253,7 @@ Notice that there may exist multiple valid ways for the insertion, as long as th
 Input: root = [4,2,7,1,3], val = 5
 Output: [4,2,7,1,3,5]
 
-## 25) [Count Number of Teams](https://github.com/mauricechouam/Leetcode-training/blob/main/Insert%20into%20a%20Binary%20Search%20Tree/code.js)
+## 25) [Count Number of Teams](https://github.com/mauricechouam/Leetcode-training/blob/main/Count%20Number%20of%20Teams/code.js)
 There are n soldiers standing in a line. Each soldier is assigned a unique rating value.
 You have to form a team of 3 soldiers amongst them under the following rules:
 Choose 3 soldiers with index (i, j, k) with rating (rating[i], rating[j], rating[k]).
