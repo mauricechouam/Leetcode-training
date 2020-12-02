@@ -236,12 +236,16 @@ The left subtree is the maximum tree constructed from left part subarray divided
 The right subtree is the maximum tree constructed from right part subarray divided by the maximum number.
 Construct the maximum tree by the given array and output the root node of this tree.
 
-## 22) [Maximum Binary Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Maximum%20Binary%20Tree/code.js)
-Given an integer array with no duplicates. A maximum tree building on this array is defined as follow:
-The root is the maximum number in the array.
-The left subtree is the maximum tree constructed from left part subarray divided by the maximum number.
-The right subtree is the maximum tree constructed from right part subarray divided by the maximum number.
-Construct the maximum tree by the given array and output the root node of this tree.
+## 22) [Longest Substring Without Repeating Characters](https://github.com/mauricechouam/Leetcode-training/blob/main/Maximum%20Binary%20Tree/code.js)
+Given a string s, find the length of the longest substring without repeating characters.
+Example 1:
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+Example 2:
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
 
 
 
