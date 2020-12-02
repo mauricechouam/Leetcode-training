@@ -236,7 +236,7 @@ The left subtree is the maximum tree constructed from left part subarray divided
 The right subtree is the maximum tree constructed from right part subarray divided by the maximum number.
 Construct the maximum tree by the given array and output the root node of this tree.
 
-## 22) [Longest Substring Without Repeating Characters](https://github.com/mauricechouam/Leetcode-training/blob/main/Longest%20Substring%20Without%20Repeating%20Characters/code.js)
+## 23) [Longest Substring Without Repeating Characters](https://github.com/mauricechouam/Leetcode-training/blob/main/Longest%20Substring%20Without%20Repeating%20Characters/code.js)
 Given a string s, find the length of the longest substring without repeating characters.
 Example 1:
 Input: s = "abcabcbb"
@@ -246,6 +246,12 @@ Example 2:
 Input: s = "bbbbb"
 Output: 1
 Explanation: The answer is "b", with the length of 1.
+
+## 24) [Insert into a Binary Search Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Longest%20Substring%20Without%20Repeating%20Characters/code.js)
+You are given the root node of a binary search tree (BST) and a value to insert into the tree. Return the root node of the BST after the insertion. It is guaranteed that the new value does not exist in the original BST.
+Notice that there may exist multiple valid ways for the insertion, as long as the tree remains a BST after insertion. You can return any of them.
+Input: root = [4,2,7,1,3], val = 5
+Output: [4,2,7,1,3,5]
 
 
 
