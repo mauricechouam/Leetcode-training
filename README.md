@@ -278,7 +278,7 @@ Example 2:
 Input: "((("
 Output: 3
 
-## 27) [Permutation](https://github.com/mauricechouam/Leetcode-training/blob/main/Count%20Number%20of%20Teams/code.js)
+## 27) [Permutation](https://github.com/mauricechouam/Leetcode-training/blob/main/Permutations/code.js)
 Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
 Example 1:
 Input: nums = [1,2,3]
