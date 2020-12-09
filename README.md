@@ -287,7 +287,7 @@ Example 2:
 Input: nums = [0,1]
 Output: [[0,1],[1,0]]
 
-## 28) [Find Smallest Letter Greater Than Target](https://github.com/mauricechouam/Leetcode-training/blob/main/Permutations/code.js)
+## 28) [Find Smallest Letter Greater Than Target](https://github.com/mauricechouam/Leetcode-training/blob/main/Find%20Smallest%20Letter%20Greater%20Than%20Target/code.js)
 Given a list of sorted characters letters containing only lowercase letters, and given a target letter target, find the smallest element in the list that is larger than the given target.
 Letters also wrap around. For example, if the target is target = 'z' and letters = ['a', 'b'], the answer is 'a'.
 Examples:
