@@ -300,6 +300,14 @@ letters = ["c", "f", "j"]
 target = "c"
 Output: "f"
 
+## 29) [Letter Combinations of a Phone Number](https://github.com/mauricechouam/Leetcode-training/blob/main/Find%20Smallest%20Letter%20Greater%20Than%20Target/code.js)
+Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
+A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+Letter Combinations of a Phone Number
+Input: digits = "23"
+Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+
+
 
 
 
