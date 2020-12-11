@@ -313,7 +313,7 @@ Follow up: Could you do this in one pass?
 Input: head = [1,2,3,4,5], n = 2
 Output: [1,2,3,5]
 
-## 30) [Lowest Common Ancestor of a Binary Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Letter%20Combinations%20of%20a%20Phone%20Number/code.js)
+## 30) [Lowest Common Ancestor of a Binary Tree](https://github.com/mauricechouam/Leetcode-training/blob/main/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/code.js)
 Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
 According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
 Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
