@@ -324,7 +324,7 @@ Explanation: The LCA of nodes 5 and 1 is 3.
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 \You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-## 33) [Lowest Common Ancestor of a Binary Tree](https://github.com/mauricechouam/Leetcode-training/commit/abc0ce47cbed8b092a0c769a4897a00dce957865)
+## 33) [Base 7](https://github.com/mauricechouam/Leetcode-training/commit/abc0ce47cbed8b092a0c769a4897a00dce957865)
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 \You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
