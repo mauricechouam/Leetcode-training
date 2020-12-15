@@ -342,6 +342,9 @@ Explanation: 11 = 5 + 5 + 1
 Example 2:
 Input: coins = [2], amount = 3
 Output: -1
+Example 3:
+Input: coins = [1], amount = 0
+Output: 0
 
 
 
