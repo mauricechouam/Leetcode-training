@@ -367,7 +367,7 @@ Input: dividend = 10, divisor = 3
 Output: 3
 Explanation: 10/3 = truncate(3.33333..) = 3.
 
-## 37) [Remove Duplicates from Sorted List](https://github.com/mauricechouam/Leetcode-training/blob/main/Divide%20Two%20Integers/code.js)
+## 37) [Remove Duplicates from Sorted List](https://github.com/mauricechouam/Leetcode-training/blob/main/Remove%20Duplicates%20from%20Sorted%20List/code.js)
 Given a sorted linked list, delete all duplicates such that each element appear only once.
 Example 1:
 Input: 1->1->2
