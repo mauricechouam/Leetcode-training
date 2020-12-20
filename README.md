@@ -376,7 +376,7 @@ Example 2:
 Input: 1->1->2->3->3
 Output: 1->2->3
 
-## 3) [Remove Duplicates from Sorted Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Remove%20Duplicates%20from%20Sorted%20Array/code.js)
+## 38) [Remove Duplicates from Sorted Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Remove%20Duplicates%20from%20Sorted%20Array/code.js)
 Given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 Example 1:
