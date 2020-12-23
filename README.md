@@ -404,6 +404,10 @@ Explanation: These are the possible outcomes:
 3. You remove 3 stones. Your friend removes the last stone. Your friend wins.
 In all outcomes, your friend wins.
 
+Example 2:
+Input: n = 1
+Output: true
+
 
 
 
