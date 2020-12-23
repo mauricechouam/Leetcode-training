@@ -395,6 +395,7 @@ You and your friend will alternate taking turns, and you go first.
 On each turn, the person whose turn it is will remove 1 to 3 stones from the heap.
 The one who removes the last stone is the winner.
 Given n, the number of stones in the heap, return true if you can win the game assuming both you and your friend play optimally, otherwise return false.
+Example1
 Input: n = 4
 Output: false
 Explanation: These are the possible outcomes:
