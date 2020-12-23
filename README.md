@@ -388,7 +388,7 @@ Input: nums = [1,1,2]
 Output: 2, nums = [1,2]
 Explanation: Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the returned length.
 
-## 39) [Nim Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Remove%20Duplicates%20from%20Sorted%20Array/code.js)
+## 39) [Nim Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Nim%20Game/code.js)
 You are playing the following Nim Game with your friend:
 Initially, there is a heap of stones on the table.
 You and your friend will alternate taking turns, and you go first.
