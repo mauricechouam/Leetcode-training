@@ -408,14 +408,16 @@ Example 2:
 Input: n = 1
 Output: true
 
-## 40) [Nim Game](https://github.com/mauricechouam/Leetcode-training/blob/main/Nim%20Game/code.js)
-You are playing the following Nim Game with your friend:
-Initially, there is a heap of stones on the table.
-You and your friend will alternate taking turns, and you go first.
-On each turn, the person whose turn it is will remove 1 to 3 stones from the heap.
-The one who removes the last stone is the winner.
-Given n, the number of stones in the heap, return true if you can win the game assuming both you and your friend play optimally, otherwise return false.
-
+## 40) [String to Integer (atoi)](https://github.com/mauricechouam/Leetcode-training/blob/main/Nim%20Game/code.js)
+Implement atoi which converts a string to an integer.
+The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
+The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
+Example 1:
+Input: str = "42"
+Output: 42
+Example 2:
+Input: str = "   -42"
+Output: -42
 
 
 
