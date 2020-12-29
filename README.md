@@ -419,7 +419,7 @@ Example 2:
 Input: str = "   -42"
 Output: -42
 
-## 41) [Valid Number](https://github.com/mauricechouam/Leetcode-training/blob/main/String%20to%20Integer%20(atoi)/code.js)
+## 41) [Valid Number](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Number/code.js)
 Validate if a given string can be interpreted as a decimal number.
 Some examples:
 "0" => true
