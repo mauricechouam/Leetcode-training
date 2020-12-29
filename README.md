@@ -420,10 +420,15 @@ Input: str = "   -42"
 Output: -42
 
 ## 41) [Valid Number](https://github.com/mauricechouam/Leetcode-training/blob/main/String%20to%20Integer%20(atoi)/code.js)
-Implement atoi which converts a string to an integer.
-The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
-The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
-
+Validate if a given string can be interpreted as a decimal number.
+Some examples:
+"0" => true
+" 0.1 " => true
+"abc" => false
+"1 a" => false
+"2e10" => true
+" -90e3   " => true
+" 1e" => false
 
 
 
