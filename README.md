@@ -429,6 +429,8 @@ Some examples:
 "2e10" => true
 " -90e3   " => true
 " 1e" => false
+"-+3" => false
+"95a54e53" => false
 
 
 
