@@ -432,7 +432,7 @@ Some examples:
 "-+3" => false
 "95a54e53" => false
 
-## 42) [Valid Number](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Number/code.js)
+## 42) [Longest Increasing Subsequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Number/code.js)
 
 
 
