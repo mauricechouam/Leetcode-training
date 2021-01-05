@@ -454,7 +454,7 @@ Input: nums = [5,4,3,2,1]
 Output: false
 Explanation: No triplet exists.
 
-## 43) [Increasing Triplet Subsequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Increasing%20Triplet%20Subsequence/code.js)
+## 44) [Increasing Triplet Subsequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Increasing%20Triplet%20Subsequence/code.js)
 Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false.
 Example 1:
 Input: nums = [1,2,3,4,5]
