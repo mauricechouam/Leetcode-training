@@ -454,7 +454,7 @@ Input: nums = [5,4,3,2,1]
 Output: false
 Explanation: No triplet exists.
 
-## 44) [Increasing Triplet Subsequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Increasing%20Triplet%20Subsequence/code.js)
+## 44) [Find All Anagrams in a String](https://github.com/mauricechouam/Leetcode-training/blob/main/Increasing%20Triplet%20Subsequence/code.js)
 Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
 Strings consists of lowercase English letters only and the length of both strings s and p will not be larger than 20,100.
 The order of output does not matter.
