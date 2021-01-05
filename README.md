@@ -455,15 +455,17 @@ Output: false
 Explanation: No triplet exists.
 
 ## 44) [Increasing Triplet Subsequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Increasing%20Triplet%20Subsequence/code.js)
-Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false.
+Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
+Strings consists of lowercase English letters only and the length of both strings s and p will not be larger than 20,100.
+The order of output does not matter.
 Example 1:
-Input: nums = [1,2,3,4,5]
-Output: true
-Explanation: Any triplet where i < j < k is valid.
-Example 2:
-Input: nums = [5,4,3,2,1]
-Output: false
-Explanation: No triplet exists.
+Input:
+s: "cbaebabacd" p: "abc"
+Output:
+[0, 6]
+Explanation:
+The substring with start index = 0 is "cba", which is an anagram of "abc".
+The substring with start index = 6 is "bac", which is an anagram of "abc".
 
 
 
