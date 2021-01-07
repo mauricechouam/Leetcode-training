@@ -468,17 +468,14 @@ The substring with start index = 0 is "cba", which is an anagram of "abc".
 The substring with start index = 6 is "bac", which is an anagram of "abc".
 
 ## 45) [Permutation in String](https://github.com/mauricechouam/Leetcode-training/commit/29cb955e5cbe991ea4647a8f1dd5c7d6b40eddfa)
-Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
-Strings consists of lowercase English letters only and the length of both strings s and p will not be larger than 20,100.
-The order of output does not matter.
+Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.
 Example 1:
-Input:
-s: "cbaebabacd" p: "abc"
-Output:
-[0, 6]
-Explanation:
-The substring with start index = 0 is "cba", which is an anagram of "abc".
-The substring with start index = 6 is "bac", which is an anagram of "abc".
+Input: s1 = "ab" s2 = "eidbaooo"
+Output: True
+Explanation: s2 contains one permutation of s1 ("ba").
+Example 2:
+Input:s1= "ab" s2 = "eidboaoo"
+Output: False
 
 
 
