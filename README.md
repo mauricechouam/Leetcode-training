@@ -477,7 +477,7 @@ Example 2:
 Input:s1= "ab" s2 = "eidboaoo"
 Output: False
 
-## 46) []()
+## 46) [Subsets]()
 Given an integer array nums, return all possible subsets (the power set).
 The solution set must not contain duplicate subsets.
 Example 1:
