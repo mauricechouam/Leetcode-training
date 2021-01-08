@@ -477,7 +477,7 @@ Example 2:
 Input:s1= "ab" s2 = "eidboaoo"
 Output: False
 
-## 45) [Permutation in String](https://github.com/mauricechouam/Leetcode-training/commit/0594ef239a5ecc6536173ffd931a8558968e1e8d)
+## 46) []()
 Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.
 Example 1:
 Input: s1 = "ab" s2 = "eidbaooo"
