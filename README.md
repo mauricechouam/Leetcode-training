@@ -488,14 +488,14 @@ Input: nums = [0]
 Output: [[],[0]]
 
 ## 47) [Letter Case Permutation]()
-Given an integer array nums, return all possible subsets (the power set).
-The solution set must not contain duplicate subsets.
+Given a string S, we can transform every letter individually to be lowercase or uppercase to create another string.
+Return a list of all possible strings we could create. You can return the output in any order.
 Example 1:
-Input: nums = [1,2,3]
-Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+Input: S = "a1b2"
+Output: ["a1b2","a1B2","A1b2","A1B2"]
 Example 2:
-Input: nums = [0]
-Output: [[],[0]]
+Input: S = "3z4"
+Output: ["3z4","3Z4"]
 
 
 
