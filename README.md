@@ -477,7 +477,7 @@ Example 2:
 Input:s1= "ab" s2 = "eidboaoo"
 Output: False
 
-## 46) [Subsets]()
+## 46) [Subsets](https://github.com/mauricechouam/Leetcode-training/blob/main/Subsets/code.js)
 Given an integer array nums, return all possible subsets (the power set).
 The solution set must not contain duplicate subsets.
 Example 1:
@@ -487,7 +487,7 @@ Example 2:
 Input: nums = [0]
 Output: [[],[0]]
 
-## 46) [Subsets]()
+## 47) [Subsets]()
 Given an integer array nums, return all possible subsets (the power set).
 The solution set must not contain duplicate subsets.
 Example 1:
