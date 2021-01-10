@@ -487,7 +487,7 @@ Example 2:
 Input: nums = [0]
 Output: [[],[0]]
 
-## 47) [Subsets]()
+## 47) [Letter Case Permutation]()
 Given an integer array nums, return all possible subsets (the power set).
 The solution set must not contain duplicate subsets.
 Example 1:
