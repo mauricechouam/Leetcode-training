@@ -533,7 +533,7 @@ Example 2:
 Input: nums = [3,4,-1,1]
 Output: 2
 
-## 50) [First Missing Positive](https://github.com/mauricechouam/Leetcode-training/blob/main/First%20Missing%20Positive/code.js)
+## 50) []()
 Given an unsorted integer array nums, find the smallest missing positive integer.
 Follow up: Could you implement an algorithm that runs in O(n) time and uses constant extra space.?
 Example 1:
