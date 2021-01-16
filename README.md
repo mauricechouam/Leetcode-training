@@ -543,7 +543,7 @@ Input:
 Output:
 [5,6]
 
-## 52) [](https://github.com/mauricechouam/Leetcode-training/blob/main/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/code.js)
+## 52) [Find All Duplicates in an Array]()
 Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 Find all the elements of [1, n] inclusive that do not appear in this array.
 Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
