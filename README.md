@@ -543,7 +543,7 @@ Input:
 Output:
 [5,6]
 
-## 52) [Find All Duplicates in an Array]()
+## 52) [Find All Duplicates in an Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Find%20All%20Duplicates%20in%20an%20Array/code.js)
 Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 Find all the elements that appear twice in this array.
 Could you do it without extra space and in O(n) runtime?
@@ -553,7 +553,7 @@ Input:
 Output:
 [2,3]
 
-## 52) [Find All Duplicates in an Array]()
+## 53) [Find All Duplicates in an Array]()
 Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 Find all the elements that appear twice in this array.
 Could you do it without extra space and in O(n) runtime?
