@@ -553,7 +553,7 @@ Input:
 Output:
 [2,3]
 
-## 53) [Find All Duplicates in an Array]()
+## 53) [Remove Palindromic Subsequences]()
 Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 Find all the elements that appear twice in this array.
 Could you do it without extra space and in O(n) runtime?
