@@ -591,7 +591,7 @@ Input: S = "ab##", T = "c#d#"
 Output: true
 Explanation: Both S and T become "".
 
-## 55) [ Backspace String Compare](https://github.com/mauricechouam/Leetcode-training/blob/main/Backspace%20String%20Compare/code.js)
+## 56) [](https://github.com/mauricechouam/Leetcode-training/blob/main/Backspace%20String%20Compare/code.js)
 Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
 Note that after backspacing an empty text, the text will continue empty.
 Example 1:
