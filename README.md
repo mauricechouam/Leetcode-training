@@ -604,7 +604,7 @@ Input: s = "  hello world  "
 Output: "world hello"
 Explanation: Your reversed string should not contain leading or trailing spaces.
 
-## 57) [Valid Palindrome]()
+## 57) [Valid Palindrome](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Anagram/code.js)
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 Note: For the purpose of this problem, we define empty string as valid palindrome.
 Example 1:
