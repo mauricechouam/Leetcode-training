@@ -604,7 +604,7 @@ Input: s = "  hello world  "
 Output: "world hello"
 Explanation: Your reversed string should not contain leading or trailing spaces.
 
-## 57) [Reverse Words in a String](https://github.com/mauricechouam/Leetcode-training/blob/main/Reverse%20Words%20in%20a%20String/code.js)
+## 57) []()
 Given an input string s, reverse the order of the words.
 A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.
 Return a string of the words in reverse order concatenated by a single space.
