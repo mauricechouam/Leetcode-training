@@ -614,7 +614,7 @@ Example 2:
 Input: "race a car"
 Output: false
 
-## 58) [](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Anagram/code.js)
+## 58) []()
 
 
 
