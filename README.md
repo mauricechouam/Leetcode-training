@@ -614,7 +614,7 @@ Example 2:
 Input: "race a car"
 Output: false
 
-## 58) [Valid Palindrome II]()
+## 58) [Valid Palindrome II](https://github.com/mauricechouam/Leetcode-training/blob/main/Valid%20Palindrome%20II/code.js)
 Given a non-empty string s, you may delete at most one character. Judge whether you can make it a palindrome.
 Example 1:
 Input: "aba"
