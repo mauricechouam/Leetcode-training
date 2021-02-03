@@ -636,7 +636,7 @@ Explanation: Starting with nums = [1,2,3,4]:
 - Remove numbers 2 and 3, then nums = []
 There are no more pairs that sum up to 5, hence a total of 2 operations.
 
-## 60) [Longest Consecutive Sequence]()
+## 60) [Longest Consecutive Sequence](https://github.com/mauricechouam/Leetcode-training/blob/main/Longest%20Consecutive%20Sequence/code.js)
 Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 Example 1:
 Input: nums = [100,4,200,1,3,2]
