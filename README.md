@@ -624,7 +624,7 @@ Input: "abca"
 Output: True
 Explanation: You could delete the character 'c'.
 
-## 59) [Max Number of K-Sum Pairs]()
+## 59) [Max Number of K-Sum Pairs](https://github.com/mauricechouam/Leetcode-training/blob/main/Max%20Number%20of%20K-Sum%20Pairs/code.js)
 You are given an integer array nums and an integer k.
 In one operation, you can pick two numbers from the array whose sum equals k and remove them from the array.
 Return the maximum number of operations you can perform on the array.
