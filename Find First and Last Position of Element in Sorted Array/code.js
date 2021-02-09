@@ -13,7 +13,10 @@ var searchRange = function(nums, target) {
         else low = mid+1;
     }
     
- 
+    // if target doesn't exist
+    if(nums[low] !== target) return [-1, -1];
+    
+    const start = low;
     
     // reset low and high
     low = 0, high = nums.length-1;
