@@ -667,7 +667,7 @@ Example 2:
 Input: nums = [5,7,7,8,8,10], target = 6
 Output: [-1,-1]
 
- ## )[Find First and Last Position of Element in Sorted Array](https://github.com/mauricechouam/Leetcode-training/blob/main/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/code.js)
+ ## )[]()
 
 
 
