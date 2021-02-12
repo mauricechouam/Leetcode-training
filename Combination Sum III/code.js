@@ -17,7 +17,7 @@ var combinationSum3 = function(k, n) {
             if (sum + i <= target) {
                 temp.push(i);
                 fun(sum + i, i+1);
-                temp.pop();
+               
             }
         }
     }
