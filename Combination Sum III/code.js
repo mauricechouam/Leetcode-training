@@ -23,6 +23,6 @@ var combinationSum3 = function(k, n) {
     }
 
     fun(0, 1);
-  
+    return res;
     
 };
