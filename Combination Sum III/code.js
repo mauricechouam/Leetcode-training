@@ -13,7 +13,13 @@ var combinationSum3 = function(k, n) {
             if(temp.length ==k) res.push([...temp]);
             return;
         }
-     
+        for (let i = index; i <= 9; i++) {
+            if (sum + i <= target) {
+                temp.push(i);
+                fun(sum + i, i+1);
+                temp.pop();
+            }
+        }
     }
 
     
