@@ -9,6 +9,7 @@ var fib = function(N) {
     let i = 2;
     for (; i <= N; i += 1) {
         const temp = a + b;
+        a = b;
      }
 
     
