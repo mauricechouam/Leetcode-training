@@ -14,11 +14,5 @@ var fib = function(N) {
       b = temp; 
       
      }
-
-    
-   
-    
-    
-    
     return b;
   }; 
