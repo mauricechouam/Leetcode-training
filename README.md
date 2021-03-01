@@ -707,6 +707,7 @@ Explanation: "as" is substring of "mass" and "hero" is substring of "superhero".
 Example 2 : 
 Input: words = ["leetcode","et","code"]
 Output: ["et","code"]
+Explanation: "et", "code" are substring of "leetcode".
 
 
 
