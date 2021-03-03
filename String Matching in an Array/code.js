@@ -2,7 +2,8 @@
  * @param {string[]} words
  * @return {string[]}
  */
-var stringMatching =  function(words) {
+var stringMatching = function (words) {
+    let res = [];
 
     
 }
