@@ -14,6 +14,7 @@ var stringMatching = function (words) {
 
         }
     }
+    return res;
 
     
 }
