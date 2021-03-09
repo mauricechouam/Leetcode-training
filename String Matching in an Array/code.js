@@ -11,8 +11,7 @@ var stringMatching = function (words) {
                 break;
 
             }
-
-        }
+    }
     }
     return res;
      // Time Complexity: O(n^2)
