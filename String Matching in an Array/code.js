@@ -16,6 +16,7 @@ var stringMatching = function (words) {
     }
     return res;
      // Time Complexity: O(n^2)
+    // Space Complexity: O(n)
 
     
 }
