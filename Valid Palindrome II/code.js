@@ -23,5 +23,5 @@ var validPalindrome = function(s) {
             return false
         }
     }
-    return
+    return true;
 };
