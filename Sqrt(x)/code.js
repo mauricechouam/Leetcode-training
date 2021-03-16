@@ -4,7 +4,7 @@
  */
 var mySqrt = function(x) {
     
-    var result = 1;
+    let result = 1;
     while (result*result <= x) result++;
     return result - 1;
 };
