@@ -7,7 +7,6 @@ var validPalindrome = function(s) {
         j = s.length - 1;
     
     let errors = 1;
-    
     while(i < j) {
         
         if(s[i] === s[j]) {
