@@ -3,7 +3,7 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var sortColors = function(nums) {
-    let left = 0;
+    var left = 0;
     let right = nums.length - 1;
     let zero = 0;
     while(left <= right) {
@@ -21,7 +21,6 @@ var sortColors = function(nums) {
         } else {
             left++
         }
-        
     }
     return nums;
 };
