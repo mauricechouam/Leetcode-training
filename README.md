@@ -710,18 +710,13 @@ Output: ["et","code"]
 Explanation: "et", "code" are substring of "leetcode".
 
 ## 67)[Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/mauricechouam/Leetcode-training/blob/main/String%20Matching%20in%20an%20Array/code.js)
-Given an array of string words. Return all strings in words which is substring of another word in any order. 
-String words[i] is substring of words[j], if can be obtained removing some characters to left and/or right side of words[j].
+Given an integer array nums and an integer k, find three non-overlapping subarrays of length k with maximum sum and return them.
+Return the result as a list of indices representing the starting position of each interval (0-indexed). If there are multiple answers, return the lexicographically smallest one.
 Example 1:
-Input: words = ["mass","as","hero","superhero"]
-Output: ["as","hero"]
-Explanation: "as" is substring of "mass" and "hero" is substring of "superhero".
-["hero","as"] is also a valid answer.
-Example 2 : 
-Input: words = ["leetcode","et","code"]
-Output: ["et","code"]
-Explanation: "et", "code" are substring of "leetcode".
-
+Input: nums = [1,2,1,2,6,7,5,1], k = 2
+Output: [0,3,5]
+Explanation: Subarrays [1, 2], [2, 6], [7, 5] correspond to the starting indices [0, 3, 5].
+We could have also taken [2, 1], but an answer of [1, 3, 5] would be lexicographically larger.
 
 
 
