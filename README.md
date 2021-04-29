@@ -709,7 +709,7 @@ Input: words = ["leetcode","et","code"]
 Output: ["et","code"]
 Explanation: "et", "code" are substring of "leetcode".
 
-## 67)[Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/mauricechouam/Leetcode-training/blob/main/String%20Matching%20in%20an%20Array/code.js)
+## 67)[Maximum Sum of 3 Non-Overlapping Subarrays]()
 Given an integer array nums and an integer k, find three non-overlapping subarrays of length k with maximum sum and return them.
 Return the result as a list of indices representing the starting position of each interval (0-indexed). If there are multiple answers, return the lexicographically smallest one.
 Example 1:
