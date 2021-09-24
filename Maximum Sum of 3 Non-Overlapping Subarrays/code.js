@@ -4,6 +4,7 @@
  * @return{number[]} 
  */
 
-var maxSumofThreesubarrays = function (nums, k, m=3) {
+var maxSumofThreesubarrays = function (nums, k, m = 3) {
+    
     
 }
