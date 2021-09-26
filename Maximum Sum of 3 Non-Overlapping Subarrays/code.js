@@ -12,5 +12,6 @@ var maxSumofThreesubarrays = function (nums, k, m = 3) {
         memo[i] = memo[i - 1] - nums[i - 1] + nums[i + k - 1];
 
     }
+    const sumMemo = Array.from(Array(m + 1), () => [0, []]);
 
 }
