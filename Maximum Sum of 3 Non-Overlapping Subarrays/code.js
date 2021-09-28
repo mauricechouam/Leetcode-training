@@ -17,6 +17,7 @@ var maxSumofThreesubarrays = function (nums, k, m = 3) {
         for (let j = 0; j <= m; j++){
             let l = i + (j - 1) * k;
             let windowSum = memo[1];
+            let tempSum = windowSum + sum[j - 1][0];
 
     
 }
