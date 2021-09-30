@@ -27,5 +27,6 @@ var maxSumofThreesubarrays = function (nums, k, m = 3) {
     
         }
     }
+    return sumMemo[m][1];
 
 };
