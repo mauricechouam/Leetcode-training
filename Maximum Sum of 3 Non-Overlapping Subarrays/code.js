@@ -19,7 +19,7 @@ var maxSumofThreesubarrays = function (nums, k, m = 3) {
             let windowSum = memo[1];
             let tempSum = windowSum + sum[j - 1][0];
             if (tempSum > windowSum[j][0]) {
-                const indexes = [...sumMemo[j - 1][1], 1];
+                const indexes = [...sumMemo[j - 1][1], l];
                 sumMemo[j] = [tempSum, indexes];
                 
             }
