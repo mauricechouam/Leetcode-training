@@ -4,6 +4,7 @@
  */
 var maxProfit = function (prices) {
     let t1Cost = Infinity;
-    
+    let t2Cost = Infinity;
+
     
 }
