@@ -5,6 +5,11 @@
 var maxProfit = function (prices) {
     let t1Cost = Infinity;
     let t2Cost = Infinity;
+    for (let i = 0; i < prices.length; i++)
+    {
+        t1Cost= Math.min
+        
+    }
 
     
 }
