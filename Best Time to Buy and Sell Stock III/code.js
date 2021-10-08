@@ -11,7 +11,8 @@ var maxProfit = function (prices) {
     {
         t1Cost = Math.min(t1Cost, prices[i]);
         t1Profit = Math.max(t1Profit, prices[i] - t1Cost);
-        
+
+        t2Cost =  Math.min ()
         
     }
 
