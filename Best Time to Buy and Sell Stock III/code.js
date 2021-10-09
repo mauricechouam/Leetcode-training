@@ -15,6 +15,5 @@ var maxProfit = function (prices) {
         t2Profit = Math.max(t2Profit, prices[i] - t2Cost);
     }
     return t2Profit;
-
     
 }
