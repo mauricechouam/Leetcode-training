@@ -7,13 +7,11 @@ var maxProfit = function (prices) {
     let t2Cost = Infinity;
     let t1Profit = 0;
     let t2Profit = 0;
-    for (let i = 0; i < prices.length; i++)
-    {
+    for (let i = 0; i < prices.length; i++) {
         t1Cost = Math.min(t1Cost, prices[i]);
         t1Profit = Math.max(t1Profit, prices[i] - t1Cost);
         t2Cost = Math.min(t2Cost, prices[i] - t1Profit);
         t2Profit = Math.max(t2Profit, prices[i] - t2Cost);
     }
     return t2Profit;
-    
-}
+};
