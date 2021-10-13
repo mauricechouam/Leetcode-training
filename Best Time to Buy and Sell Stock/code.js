@@ -4,5 +4,6 @@
  * 
  */
 var maxProfit = function () {
+    let max = 0;
     
 }
