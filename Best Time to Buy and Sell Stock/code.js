@@ -3,8 +3,11 @@
  * @return {number}
  * 
  */
-var maxProfit = function () {
+var maxProfit = function (price) {
     let max = 0;
     let min = Infinity;
+    for (let i = 0; i < price.length; i){
+        
+    }
     
 }
