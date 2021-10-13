@@ -3,3 +3,6 @@
  * @return {number}
  * 
  */
+var maxProfit = function () {
+    
+}
