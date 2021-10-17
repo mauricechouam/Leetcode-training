@@ -11,5 +11,6 @@ var maxProfit = function (price) {
         max = Math.max(max,price[i]-min)
         
     }
+    return max;
     
 }
