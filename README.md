@@ -729,7 +729,7 @@ Explanation: Buy on day 4 (price = 0) and sell on day 6 (price = 3), profit = 3-
 Then buy on day 7 (price = 1) and sell on day 8 (price = 4), profit = 4-1 = 3.
 Example 2:
 
-## 69)[Best Time to Buy and Sell Stock]()
+## 69)[Best Time to Buy and Sell Stock](https://github.com/mauricechouam/Leetcode-training/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock/code.js)
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
@@ -738,6 +738,7 @@ Input: prices = [7,1,5,3,6,4]
 Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
 Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+
 
 
 
