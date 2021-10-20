@@ -739,7 +739,7 @@ Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
 Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
 
-## 69)[Best Time to Buy and Sell Stock](https://github.com/mauricechouam/Leetcode-training/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock/code.js)
+## 69)[Best Time to Buy and Sell Stock]()
 
 
 
