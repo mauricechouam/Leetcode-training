@@ -4,3 +4,6 @@
  * @return {number}
  * 
 */
+var searchInsert = function (nums, target) {
+    
+}
