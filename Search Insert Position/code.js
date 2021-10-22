@@ -9,6 +9,7 @@ var searchInsert = function (nums, target) {
     let end = nums.length - 1;
 
     while (start <= end) {
+        const middle = Math.floor
             
         }
 }
