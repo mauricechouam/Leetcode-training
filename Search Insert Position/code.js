@@ -10,6 +10,7 @@ var searchInsert = function (nums, target) {
 
     while (start <= end) {
         const middle = Math.floor()()
+        let coste 
             
         }
 }
