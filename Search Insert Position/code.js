@@ -12,5 +12,5 @@ var searchInsert = function (nums, target) {
         const middle = Math.floor()()
         let coste 
             
-        }
+    }
 }
