@@ -8,7 +8,7 @@ var searchInsert = function (nums, target) {
     let start = 0;
     let end = nums.length - 1;
     while (start <= end) {
-        const middle = Math.floor((end + start) /2);
+        const middle = Math.floor((end + start)/2);
         let cost = 1;
             
     }
