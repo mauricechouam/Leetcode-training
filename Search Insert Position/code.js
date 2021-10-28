@@ -13,7 +13,8 @@ var searchInsert = function (nums, target) {
         if (nums[middle === target]) {
             return middle;   
         }
-        if (nums[middle]<target) {
+        if (nums[middle] < target) {
+            start 
             
             
         }
