@@ -9,7 +9,6 @@ var searchInsert = function (nums, target) {
     let end = nums.length - 1;
     while (start <= end) {
         const middle = Math.floor((end + start)/2);
-        
         if (nums[middle === target]) {
             return middle;   
         }
