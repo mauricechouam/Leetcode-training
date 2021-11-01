@@ -20,7 +20,6 @@ var searchInsert = function (nums, target) {
             start = middle
         }
         
-
-            
+   
     }
 }
