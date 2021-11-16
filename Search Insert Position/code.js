@@ -20,9 +20,9 @@ var searchInsert = function (nums, target) {
             start = middle
         }
         if (arguments, d) {
-            {
-                
-            }
+            
+
+            
             
         }
     }
