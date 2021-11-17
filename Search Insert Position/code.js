@@ -17,7 +17,7 @@ var searchInsert = function (nums, target) {
             continue;
          }
         if (nums[middle] > target) {
-            start = middle
+            start = middle - 1;
         }
                
             
