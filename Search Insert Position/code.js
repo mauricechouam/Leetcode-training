@@ -24,5 +24,5 @@ var searchInsert = function (nums, target) {
 
     }
     return start;
-}
+};
 
