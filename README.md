@@ -739,7 +739,7 @@ Output: 5
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
 Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
 
-## 70)[Search Insert Position ]()
+## 70)[Search Insert Position ](https://github.com/mauricechouam/Leetcode-training/blob/main/Search%20Insert%20Position/code.js)
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 You must write an algorithm with O(log n) runtime complexity.
 Example 1:
